@@ -453,6 +453,7 @@
         <div class="main-title">
             <h1>This is a sample homepage</h1>
             <p>Try Hovering the mouse here</p>
+            <p>This is a new change</p>
         </div>
     </div>
 </body>
